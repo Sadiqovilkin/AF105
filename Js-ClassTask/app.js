@@ -27,4 +27,5 @@ function CheckNumber(num , numarr) {
     console.log("False");
     return false
 }
-CheckNumber(5 , [1,2,3,6,45,5])
+// CheckNumber(5 , [1,2,3,6,45,5])
+
